@@ -1,0 +1,8 @@
+Exercício 1: O que é um relacionamento recursivo?
+R:Um relacionamento recursivo acontece quando uma tabela em um banco de dados se conecta a si mesma. É como se os dados dentro da tabela estivessem relacionados de alguma forma a outras linhas dentro da mesma tabela.
+
+
+Exercício 2: Qual é a diferença entre as restrições de participação total e parcial no tipo de relacionamento?
+R:Participação Total: Todos os elementos de um lado do relacionamento precisam estar conectados a pelo menos um elemento do outro lado.
+
+Participação Parcial: Alguns elementos de um lado do relacionamento podem não estar conectados a nenhum elemento do outro lado.
